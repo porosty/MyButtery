@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/androidTest/java/res" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/crown/buttery/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/crown/buttery/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/crown/buttery/view/BatteryView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/crown/buttery/view/BatteryView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-w820dp" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
